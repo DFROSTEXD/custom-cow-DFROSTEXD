@@ -68,16 +68,18 @@ Welcome to Week 4! This two-session assignment builds on Fortunate Cow by teachi
 - [Full schema](docs/json-playground/example-schema-full.json)
 
 ## Sample output
-
-<!-- TODO: Add your sample output here after completing the assignment! -->
-
-```text
- _______________________________
-< Arrays start at index 0       >
- -------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+```
+_____________________________________________
+< Good morning! Ain't no mountain high enough >
+ ---------------------------------------------
+ \     /\  ___  /\
+  \   // \/   \/ \\
+     ((    o o    ))
+      \\ /     \ //
+       \/  | |  \/ 
+        |  | |  |  
+        |  | |  |  
+        |   o   |  
+        | |   | |  
+        |m|   |m|  
 ```

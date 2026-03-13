@@ -4,10 +4,6 @@
 import * as cowsay from "cowsay";
 import fortunes from "./fortunes.json" with { type: "json" };
 
-// DEBUG
-console.log("Arguments received:", process.argv);
-console.log("Sliced args:", process.argv.slice(2));
-
 // Get command-line arguments (everything after 'npm start')
 const args = process.argv.slice(2);
 const userCategory = args[0]; // First argument is the category filter
